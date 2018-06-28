@@ -1,0 +1,11 @@
+c:\users\svoruga\source\repos\PB\PB\bin\Debug\netcoreapp2.0\PB.deps.json
+c:\users\svoruga\source\repos\PB\PB\bin\Debug\netcoreapp2.0\PB.runtimeconfig.json
+c:\users\svoruga\source\repos\PB\PB\bin\Debug\netcoreapp2.0\PB.runtimeconfig.dev.json
+c:\users\svoruga\source\repos\PB\PB\bin\Debug\netcoreapp2.0\PB.dll
+c:\users\svoruga\source\repos\PB\PB\bin\Debug\netcoreapp2.0\PB.pdb
+c:\users\svoruga\source\repos\PB\PB\obj\Debug\netcoreapp2.0\PB.csprojAssemblyReference.cache
+c:\users\svoruga\source\repos\PB\PB\obj\Debug\netcoreapp2.0\PB.csproj.CoreCompileInputs.cache
+c:\users\svoruga\source\repos\PB\PB\obj\Debug\netcoreapp2.0\PB.AssemblyInfoInputs.cache
+c:\users\svoruga\source\repos\PB\PB\obj\Debug\netcoreapp2.0\PB.AssemblyInfo.cs
+c:\users\svoruga\source\repos\PB\PB\obj\Debug\netcoreapp2.0\PB.dll
+c:\users\svoruga\source\repos\PB\PB\obj\Debug\netcoreapp2.0\PB.pdb
